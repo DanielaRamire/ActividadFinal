@@ -1,0 +1,64 @@
+[{
+        "name": "Mario Bross",
+        "genero": "Masculino",
+        "descripcion": "Es el fontanero mas famoso de todos los tiempos .",
+        "fecha de lanzamiento": "año 1981"
+
+    },
+
+
+    {
+        "name": "Pacman",
+        "genero": "Masculino",
+        "descripcion": "Conocido como Comecocos en España.",
+        "fecha de lanzamiento": "año 1955"
+
+    },
+
+
+    {
+        "name": "Bowser",
+        "genero": "Masculino",
+        "descripcion": "Tambien es un personaje de Mario Bros",
+        "fecha de lanzamiento": "año 1981"
+
+    },
+
+
+    {
+        "name": "Bomberman",
+        "genero": "Masculino",
+        "descripcion": "Es un personaje curioso de espiritu afable,valiente y cordiañ.",
+        "fecha de lanzamiento": "1999"
+
+    },
+
+
+    {
+        "name": "Toad",
+        "genero": "Masculino",
+        "descripcion": "es uno de los incondicionales de la princesa peach",
+        "fecha de lanzamiento": "1981"
+
+    },
+
+
+    {
+        "name": "Princesa Peach",
+        "genero": "femenino",
+        "descripcion": "Es uno de los principales personajes de Super mario.",
+        "fecha de lanzamiento": "1981"
+
+    },
+
+
+    {
+        "name": "luigi",
+        "genero": "Masculino",
+        "descripcion": "Tiene cierto parecido a su hermado Mario solo que su traje es verde",
+        "fecha de lanzamiento": "1981"
+
+    }
+
+
+]
